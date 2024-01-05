@@ -1,0 +1,15 @@
+pandas
+geopandas
+shapely
+matplotlib
+pyjanitor
+folium
+matplotlib
+mapclassify
+streamlit
+streamlit_folium
+black[jupyter]
+ipykernel
+jupyter
+streamlit
+streamlit-folium
