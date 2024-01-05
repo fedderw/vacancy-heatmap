@@ -13,3 +13,4 @@ ipykernel
 jupyter
 streamlit
 streamlit-folium
+pytz
