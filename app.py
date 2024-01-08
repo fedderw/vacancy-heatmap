@@ -49,6 +49,7 @@ def main():
     gdf, fetched_date = fetch_data(base_url, max_records)
 
     # Slider for user input
+    st.sidebar.title("Heatmap Settings")
     radius = st.sidebar.slider("Radius", 5, 30, 8)
     blur = st.sidebar.slider("Blur", 1, 30, 7)
     min_opacity = st.sidebar.slider("Min Opacity", 0.0, 1.0, 0.3, 0.1)
