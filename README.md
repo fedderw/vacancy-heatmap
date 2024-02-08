@@ -39,6 +39,7 @@ Converting the data into a GeoDataFrame.
 Visualizing the data on an interactive map using Folium.
 ## Code Overview
 `fetch_data`: Fetches data from the provided URL and returns a GeoDataFrame.
+
 `main`: The main function of the Streamlit app, which includes the creation of the map and Streamlit widgets.
 Data Source
 The application fetches data from Baltimore's open data server. The data includes the location of vacant properties in the city.
